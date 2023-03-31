@@ -4,7 +4,7 @@ html {
 }
 
 .banner {
-    border: solid 5px black;
+    border: solid 5px #3B3939;
     margin-right: 500px;
     margin-left: 500px;
 }
@@ -12,5 +12,11 @@ html {
 .banner h1 {
     text-align: center;
     font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
