@@ -17,14 +17,27 @@ html {
 
 .title {
     text-align: center;
-    font-size: 20px;
+    font-size: 27px;
     font-family: Arial, Helvetica, sans-serif;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 aside {
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 100px;
     margin-right: 60rem;
+    font-size: larger;
+}
+
+.credit {
+    padding-top: 13rem;
+    background-color: #9D9287;
+    float: left;
+    padding-left: 5rem;
+    padding-bottom: 50px;
+    padding-right: 20rem;
+    font-size: 12px;
 }
 
 img {
